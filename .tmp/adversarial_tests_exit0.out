@@ -1,0 +1,15 @@
+test_confirmed_source_column_shift_is_flagged (__main__.ReleaseRemediationTests.test_confirmed_source_column_shift_is_flagged) ... ok
+test_corrupted_canonical_field_fails (__main__.ReleaseRemediationTests.test_corrupted_canonical_field_fails) ... ok
+test_evidence_verification_upgrade_fails (__main__.ReleaseRemediationTests.test_evidence_verification_upgrade_fails) ... ok
+test_excluded_source_cannot_enter_package (__main__.ReleaseRemediationTests.test_excluded_source_cannot_enter_package) ... ok
+test_final_manifest_detects_tampered_file (__main__.ReleaseRemediationTests.test_final_manifest_detects_tampered_file) ... ok
+test_incorrect_canary_accounting_fails (__main__.ReleaseRemediationTests.test_incorrect_canary_accounting_fails) ... ok
+test_missing_mandatory_instruction_fails (__main__.ReleaseRemediationTests.test_missing_mandatory_instruction_fails) ... ok
+test_pristine_candidate_passes (__main__.ReleaseRemediationTests.test_pristine_candidate_passes) ... ok
+test_protected_identifier_leak_fails (__main__.ReleaseRemediationTests.test_protected_identifier_leak_fails) ... ok
+test_tampered_package_hash_fails (__main__.ReleaseRemediationTests.test_tampered_package_hash_fails) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.793s
+
+OK
